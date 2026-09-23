@@ -1,141 +1,315 @@
-<h1 align="center">⚡ AYOUB</h1>
+<!--
+╔══════════════════════════════════════════════════════════════════╗
+║                         A Y O U B                                ║
+║              CODE • INTELLIGENCE • PATTERNS                     ║
+╚══════════════════════════════════════════════════════════════════╝
+-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:171126,100:2B174D&height=180&section=header&text=AYOUB&fontSize=64&fontColor=E8D7FF&fontAlignY=38&desc=CODE%20%7C%20INTELLIGENCE%20%7C%20PATTERNS&descAlignY=60&descSize=16&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/WillToPattern">
+    <img src="https://img.shields.io/badge/BUILDING-0B0B0F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  </a>
+  <img src="https://img.shields.io/badge/AI-8B5CF6?style=for-the-badge&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/SYSTEMS-5B21B6?style=for-the-badge&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/PATTERNS-312E81?style=for-the-badge&logoColor=FFFFFF"/>
+</p>
+
+<br>
 
 <h3 align="center">
-Agentic AI Builder | Systems Thinker | Pattern Explorer
+  <code>Agentic AI Builder</code> · <code>Systems Thinker</code> · <code>Pattern Explorer</code>
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+Autonomous+Agents;Exploring+Intelligence+%26+Emergence;Code+•+Cognition+•+Cybernetics;AI+Engineering+%26+Symbolic+Systems;Digital+Alchemy+Through+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=B794F4&center=true&vCenter=true&width=760&lines=Building+Autonomous+Agents;Engineering+Systems+That+Think;Exploring+Intelligence+%26+Emergence;Code+%E2%80%A2+Cognition+%E2%80%A2+Cybernetics;Turning+Patterns+Into+Systems;Digital+Alchemy+Through+Software" />
 </p>
 
----
-
-## 🜂 About Me
-
-🔭 Building agentic AI systems, autonomous workflows, and intelligent tools.
-
-🧠 Fascinated by intelligence, cognition, symbolic systems, and emergent behavior.
-
-🧩 Passionate about discovering hidden structure in complex systems through mathematics, programming, and experimentation.
-
-⚙️ Comfortable across the stack, from low-level systems programming in C/C++ to AI applications and infrastructure.
-
-📦 Building reproducible environments with containers, automation, and cloud technologies.
-
-♟️ Competitive chess player interested in strategy, optimization, and decision-making under uncertainty.
-
-📚 Exploring the intersection of machine intelligence, cybernetics, symbolic reasoning, and human cognition.
-
-🌱 Forever learning. Forever building.
-
----
-
-## 🜁 Technologies & Tools
+<br>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-
+  <sub>🜂 <b>STRUCTURE</b> · 🜁 <b>INTELLIGENCE</b> · 🜄 <b>INFORMATION</b> · 🜃 <b>SYSTEMS</b></sub>
 </p>
 
 ---
 
-## 🜄 Focus Areas
+## `01` 🜂 ABOUT
 
 ```text
-├── Autonomous Systems      → AI agents, orchestration, tool use
-├── Machine Intelligence    → learning, adaptation, reasoning
-├── Symbolic Computing      → knowledge representation & structure
-├── Reinforcement Learning  → decision-making under uncertainty
-├── Systems Programming     → performance-critical engineering
-├── Infrastructure          → cloud, containers, automation
-└── Pattern Research        → complexity, emergence, cognition
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│  I build software around intelligence.                              │
+│                                                                      │
+│  My work sits somewhere between AI engineering, systems design,      │
+│  mathematics, automation, and the study of complex patterns.        │
+│                                                                      │
+│  I like taking things apart until the mechanism becomes visible,     │
+│  then rebuilding them into something useful.                         │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+🔭 **Building** agentic AI systems, autonomous workflows, and intelligent tools.
+
+🧠 **Exploring** machine intelligence, cognition, symbolic reasoning, and emergence.
+
+🧩 **Studying** the structures hidden underneath complex systems.
+
+⚙️ **Engineering** across the stack, from low-level C/C++ to Python, AI, and infrastructure.
+
+📦 **Shipping** reproducible systems with containers, automation, and cloud technologies.
+
+♟️ **Playing** competitive chess, where pattern recognition meets calculation and decision-making.
+
+📚 **Learning** continuously across computer science, mathematics, cognition, and the philosophy of systems.
+
+---
+
+## `02` 🜁 THE WORKBENCH
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,docker,kubernetes,git,aws,nginx,postgres,mongodb,fastapi,react,ts,pytorch&perline=8" />
+
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### `INTELLIGENCE`
+
+Agentic AI  
+LLM Systems  
+Multi-Agent Architecture  
+Reinforcement Learning  
+Tool Use & Orchestration  
+RAG & Knowledge Systems  
+
+</td>
+
+<td align="center" width="50%">
+
+### `ENGINEERING`
+
+C / C++  
+Python  
+Linux  
+Docker  
+Cloud Infrastructure  
+APIs & Distributed Systems  
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03` 🜃 CURRENT VECTOR
+
+```text
+                         ┌─────────────────┐
+                         │    INTELLIGENCE │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                    ┌─────────────────────────┐
+                    │    AGENTIC SYSTEMS      │
+                    └────────────┬────────────┘
+                                 │
+              ┌──────────────────┼──────────────────┐
+              ▼                  ▼                  ▼
+        ┌───────────┐      ┌───────────┐      ┌───────────┐
+        │  REASON   │      │   ACT     │      │  ADAPT    │
+        └─────┬─────┘      └─────┬─────┘      └─────┬─────┘
+              │                  │                  │
+              └──────────────────┼──────────────────┘
+                                 ▼
+                    ┌─────────────────────────┐
+                    │      REAL SYSTEMS       │
+                    └─────────────────────────┘
+```
+
+### Primary Focus
+
+```text
+├── Autonomous Systems
+│   └── agents, orchestration, tool use, workflows
+│
+├── Machine Intelligence
+│   └── learning, reasoning, adaptation, decision-making
+│
+├── Symbolic Computing
+│   └── knowledge representation, structure, abstraction
+│
+├── Systems Engineering
+│   └── C/C++, Linux, networking, performance
+│
+├── Infrastructure
+│   └── containers, cloud, automation, deployment
+│
+└── Pattern Research
+    └── cognition, emergence, complexity, cybernetics
 ```
 
 ---
 
-## 🜃 Current Interests
-
-- Agentic AI
-- Multi-Agent Architectures
-- Reinforcement Learning
-- Symbolic Reasoning
-- Cognitive Systems
-- Cybernetics
-- Complexity Theory
-- Knowledge Graphs
-- Human-Machine Interaction
-- LLM Applications
-- Digital Alchemy Through Software
-
----
-
-## 📊 GitHub Stats
+## `04` 🜄 INTERESTS BEYOND THE MACHINE
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WillToPattern&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillToPattern&layout=compact&theme=tokyonight&hide_border=true"/>
+  <code>CYBERNETICS</code>
+  ·
+  <code>COGNITION</code>
+  ·
+  <code>COMPLEXITY</code>
+  ·
+  <code>SYMBOLIC SYSTEMS</code>
+  ·
+  <code>EMERGENCE</code>
+  ·
+  <code>PATTERN</code>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WillToPattern&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## ⚡ Philosophy
+<br>
 
 ```text
-The universe speaks in patterns.
-Software is one way of listening.
+             ┌───────────────────────────────────────┐
+             │                                       │
+             │        SYMBOL → PATTERN → MODEL       │
+             │                  ↓                    │
+             │              KNOWLEDGE                 │
+             │                  ↓                    │
+             │              DECISION                  │
+             │                  ↓                    │
+             │               ACTION                   │
+             │                                       │
+             └───────────────────────────────────────┘
+```
+
+I am interested in the strange territory where **symbols become models, models become systems, and systems begin producing behavior that was never explicitly programmed**.
+
+That territory is where I like to build.
+
+---
+
+## `05` ⚗️ DIGITAL ALCHEMY
+
+```text
+      INPUT
+        │
+        ▼
+   ┌───────────┐
+   │   SYMBOL  │
+   └─────┬─────┘
+         │
+         ▼
+   ┌───────────┐
+   │  PATTERN  │
+   └─────┬─────┘
+         │
+         ▼
+   ┌───────────┐
+   │   MODEL   │
+   └─────┬─────┘
+         │
+         ▼
+   ┌───────────┐
+   │  SYSTEM   │
+   └─────┬─────┘
+         │
+         ▼
+      OUTPUT
+
+      "Change the representation,
+       change what can be built."
 ```
 
 ---
 
-## 📫 Connect
+## `06` ♟️ THE CHESSBOARD
+
+```text
+       PATTERN        CALCULATION        DECISION
+           \              |                /
+            \             |               /
+             └────────────┼──────────────┘
+                          ▼
+                    POSITIONAL IDEA
+                          │
+                          ▼
+                       ACTION
+```
+
+Chess has always interested me for the same reason complex software does:
+
+**local decisions create global behavior.**
+
+---
+
+## `07` 📡 SIGNAL
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WillToPattern&show_icons=true&hide_border=true&bg_color=0D0B12&title_color=B794F4&text_color=C4B5FD&icon_color=8B5CF6&ring_color=8B5CF6" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillToPattern&layout=compact&hide_border=true&bg_color=0D0B12&title_color=B794F4&text_color=C4B5FD" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WillToPattern&hide_border=true&background=0D0B12&ring=8B5CF6&fire=B794F4&currStreakLabel=B794F4&sideLabels=C4B5FD&dates=6B7280" />
+</p>
+
+---
+
+## `08` 🜏 NOW
+
+```text
+[✓] AI AGENTS
+[✓] SYSTEMS
+[✓] LINUX
+[✓] CONTAINERS
+[✓] MATHEMATICS
+
+[→] MULTI-AGENT SYSTEMS
+[→] COGNITIVE ARCHITECTURES
+[→] SYMBOLIC COMPUTATION
+[→] DISTRIBUTED INTELLIGENCE
+[→] HUMAN × MACHINE INTERACTION
+```
+
+---
+
+## `09` ⌁ CONTACT
 
 <p align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=B794F4"/>
 </a>
 
 <a href="mailto:ayoublamghari.word@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=B794F4"/>
+</a>
+
+<a href="https://github.com/WillToPattern">
+  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=B794F4"/>
 </a>
 
 </p>
 
+<br>
+
 <p align="center">
-<i>"Between symbol and machine lies invention."</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B174D,50:171126,100:090909&height=3&section=footer" />
+</p>
+
+<p align="center">
+  <sub>⌁ build systems · study patterns · question assumptions ⌁</sub>
+</p>
+
+<p align="center">
+  <i>"Between symbol and machine lies invention."</i>
 </p>
