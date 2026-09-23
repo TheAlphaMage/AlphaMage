@@ -254,12 +254,20 @@ Chess has always interested me for the same reason complex software does:
 ## `07` 📡 SIGNAL
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WillToPattern&show_icons=true&hide_border=true&bg_color=0D0B12&title_color=B794F4&text_color=C4B5FD&icon_color=8B5CF6&ring_color=8B5CF6" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillToPattern&layout=compact&hide_border=true&bg_color=0D0B12&title_color=B794F4&text_color=C4B5FD" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=TheAlphaMage&show_icons=true&hide_border=true&bg_color=0D0B12&title_color=B794F4&text_color=C4B5FD&icon_color=8B5CF6&ring_color=8B5CF6"
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAlphaMage&layout=compact&hide_border=true&bg_color=0D0B12&title_color=B794F4&text_color=C4B5FD"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WillToPattern&hide_border=true&background=0D0B12&ring=8B5CF6&fire=B794F4&currStreakLabel=B794F4&sideLabels=C4B5FD&dates=6B7280" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=TheAlphaMage&hide_border=true&background=0D0B12&ring=8B5CF6&fire=B794F4&currStreakLabel=B794F4&sideLabels=C4B5FD&dates=6B7280"
+  />
 </p>
 
 ---
